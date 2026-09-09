@@ -1,4 +1,6 @@
-# Pixel Strikers
+# Pixelball
+
+Retro Pixel Football Game. Play vs AI and enjoy some ball!
 
 A 5v5 retro angled-view soccer game built with React and the HTML5 Canvas API. Play a five-minute match (two 2:30 halves) against a cooperative, formation-aware AI, manage stamina, switch formation, substitute at halftime, choose from ten countries, and keep your record in localStorage.
 
