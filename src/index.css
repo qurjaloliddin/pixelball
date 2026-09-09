@@ -1,0 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@400;500;600;700&family=Press+Start+2P&display=swap');
+
+:root { font-family: 'Chakra Petch', sans-serif; color: #eff8e9; background: #071923; font-synthesis: none; }
+* { box-sizing: border-box; }
+body { margin: 0; min-width: 320px; min-height: 100vh; background: radial-gradient(circle at 50% 0%, #173c45 0, #071923 55%); }
+button { font: inherit; }
